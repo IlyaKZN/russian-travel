@@ -8,3 +8,9 @@
   line-height: 26px;
   color: #FFFFFF;
 }
+
+@media (max-width: 1023px) {
+  .intro__text {
+    max-width: 100%;
+  }
+}

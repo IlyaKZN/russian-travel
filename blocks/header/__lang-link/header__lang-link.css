@@ -8,6 +8,11 @@
   margin-top: 18px;
   margin-right: 18px;
   text-decoration: none;
+  transition: opacity 0.4s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 80%;
 }
 
 .header__lang-link:last-of-type {
